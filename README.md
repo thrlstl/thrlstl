@@ -4,8 +4,6 @@
 
 ## 𝙂𝙧𝙚𝙚𝙣𝙡𝙞𝙩𝙚 𝙄𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩
 
-![Feb-24-2021 21-44-23](https://user-images.githubusercontent.com/68616411/109099936-870a7880-76e9-11eb-9379-4e9d01221789.gif)
-
 ### 𝘐𝘥𝘦𝘢 & 𝘍𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯
 
 Last October (2020), I conceptualized an application that would solve a small inconvenience. My friends and I would often have long text message threads, discussing photos we loved, hated, needed a different filter, etc., before posting them on our Instagram or another social media app.
