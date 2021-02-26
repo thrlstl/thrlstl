@@ -16,7 +16,10 @@ Here are some ideas to get you started: !
 
 ## 𝙂𝙧𝙚𝙚𝙣𝙡𝙞𝙩𝙚 𝙄𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩
 
-![Feb-24-2021 21-44-23](https://user-images.githubusercontent.com/68616411/109099936-870a7880-76e9-11eb-9379-4e9d01221789.gif)
+Login/Signup             |  Photo Selection / Uploads          |   Collection Feed
+:-------------------------:|:-------------------------:|:-------------------------:
+!![Feb-24-2021 21-44-23](https://user-images.githubusercontent.com/68616411/109099936-870a7880-76e9-11eb-9379-4e9d01221789.gif)  |  ![assets-selector](https://user-images.githubusercontent.com/68616411/109239132-64846800-779a-11eb-9399-9e3296ab3399.gif)|  ![collection-scroll-view](https://user-images.githubusercontent.com/68616411/109235020-7530e000-7792-11eb-9be8-5cc8b1df1569.gif)
+
 
 ### 𝘐𝘥𝘦𝘢 & 𝘍𝘰𝘶𝘯𝘥𝘢𝘵𝘪𝘰𝘯
 
