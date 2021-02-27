@@ -48,7 +48,7 @@ I'm also a former sales professional, 🏳️‍🌈 Gay Man in Tech, Graphic De
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewsteeleonline/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/therealsteele)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white](https://matthewsteeleonline.medium.com/)
+[![Instagram](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://matthewsteeleonline.medium.com/)
 
 ## 𝙂𝙧𝙚𝙚𝙣𝙡𝙞𝙩𝙚 𝙄𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩
 
