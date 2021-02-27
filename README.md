@@ -41,7 +41,7 @@ I'm also a former sales professional, 🏳️‍🌈 Gay Man in Tech, Graphic De
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-### 𝘓𝘦𝘵'𝘴 𝘨𝘦𝘵 𝘪𝘯 𝘵𝘰𝘶𝘤𝘩...
+## 𝘓𝘦𝘵'𝘴 𝘨𝘦𝘵 𝘪𝘯 𝘵𝘰𝘶𝘤𝘩...
 
 𝗖𝗲𝗹𝗹: 217-820-8069<br>
 𝗘𝗺𝗮𝗶𝗹: matthewsteele.chi@gmail.com
