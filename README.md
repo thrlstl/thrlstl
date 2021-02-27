@@ -14,6 +14,46 @@ Here are some ideas to get you started: !
 - ⚡ Fun fact: ...
 -->
 
+## 𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙈𝙖𝙩𝙩𝙝𝙚𝙬!
+
+I'm a Software Engineer and design-thinker motivated to improve people's lives through user-first solutions—currently developing Greenlite, a React Native mobile application for collaborative photo collections! Check out the [repo](https://github.com/thrlstl/greenlight_frontend "Greelite Frontend") for more details about a live demo! 📲 🤓
+
+I'm also a former sales professional, 🏳️‍🌈 Gay Man in Tech, Graphic Designer, Writer, 🐑 Mariah Carey aficionado, life-long learner, and much more!
+
+## 𝘾𝙤𝙧𝙚 𝙎𝙠𝙞𝙡𝙡𝙨
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![ruby-on-rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![aws-s3](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+## 𝙇𝙞𝙣𝙠𝙨
+
+- [**YouTube** — 𝘝𝘪𝘥𝘦𝘰 𝘋𝘦𝘮𝘰](https://youtu.be/SDzlYMgTgJo "Video Demo")
+- [**Expo** — 𝘓𝘪𝘷𝘦 𝘋𝘦𝘮𝘰](https://expo.io/@thrlstl/projects/Greenlite-v1 "Expo Project")
+- [**Heroku** — 𝘈𝘗𝘐 𝘌𝘯𝘥𝘱𝘰𝘪𝘯𝘵 (𝘜𝘴𝘦𝘳𝘴)](https://greenlite-api.herokuapp.com/users "Users")
+- [**Heroku** — 𝘈𝘗𝘐 𝘌𝘯𝘥𝘱𝘰𝘪𝘯𝘵 (𝘊𝘰𝘭𝘭𝘦𝘤𝘵𝘪𝘰𝘯𝘴)](https://greenlite-api.herokuapp.com/collections "Collections")
+- [**Github** — 𝘉𝘢𝘤𝘬𝘦𝘯𝘥 𝘊𝘰𝘥𝘦](https://expo.io/@thrlstl/projects/Greenlite-v1 "Expo Project")
+- [**Google Slides** — 𝘖𝘳𝘪𝘨𝘪𝘯𝘢𝘭 𝘞𝘪𝘳𝘦𝘧𝘳𝘢𝘮𝘦𝘴](https://docs.google.com/presentation/d/1JG9L8HLQq4nwDL0WmymSsAhJ2Arh5Z5SpWQfLKfu8SM/edit#slide=id.ga510280fae_0_111 "Expo Project")
+
+## 𝙇𝙚𝙩'𝙨 𝙜𝙚𝙩 𝙞𝙣 𝙩𝙤𝙪𝙘𝙝...
+
+Cell: 217-820-8069
+Email - matthewsteele.chi@gmail.com
+
 ## 𝙂𝙧𝙚𝙚𝙣𝙡𝙞𝙩𝙚 𝙄𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩
 
 𝘓𝘰𝘨𝘪𝘯 / 𝘚𝘪𝘨𝘯𝘶𝘱             |  𝘗𝘩𝘰𝘵𝘰 𝘚𝘦𝘭𝘦𝘤𝘵𝘪𝘰𝘯 / 𝘜𝘱𝘭𝘰𝘢𝘥𝘴         |  𝘊𝘰𝘭𝘭𝘦𝘤𝘵𝘪𝘰𝘯 𝘍𝘦𝘦𝘥
