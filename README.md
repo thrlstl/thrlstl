@@ -14,13 +14,13 @@ Here are some ideas to get you started: !
 - ⚡ Fun fact: ...
 -->
 
-# 𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙈𝙖𝙩𝙩𝙝𝙚𝙬!
+### 𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙈𝙖𝙩𝙩𝙝𝙚𝙬!
 
 I'm a Software Engineer and design-thinker motivated to improve people's lives through user-first solutions—currently developing Greenlite, a React Native mobile application for collaborative photo collections! Check out the [repo](https://github.com/thrlstl/greenlight_frontend "Greelite Frontend") for more details about a live demo! 📲 🤓
 
 I'm also a former sales professional, 🏳️‍🌈 Gay Man in Tech, Graphic Designer, Writer, 🐑 Mariah Carey aficionado, life-long learner, and much more!
 
-# 𝘾𝙤𝙧𝙚 𝙎𝙠𝙞𝙡𝙡𝙨
+### 𝘾𝙤𝙧𝙚 𝙎𝙠𝙞𝙡𝙡𝙨
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -40,7 +40,7 @@ I'm also a former sales professional, 🏳️‍🌈 Gay Man in Tech, Graphic De
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-## 𝙇𝙚𝙩'𝙨 𝙜𝙚𝙩 𝙞𝙣 𝙩𝙤𝙪𝙘𝙝...
+### 𝙇𝙚𝙩'𝙨 𝙜𝙚𝙩 𝙞𝙣 𝙩𝙤𝙪𝙘𝙝...
 
 Cell: 217-820-8069
 Email - matthewsteele.chi@gmail.com
