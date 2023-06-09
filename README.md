@@ -43,7 +43,6 @@ I'm also a former sales professional, 🏳️‍🌈 Gay Man in Tech, Graphic De
 
 ## 𝘓𝘦𝘵'𝘴 𝘨𝘦𝘵 𝘪𝘯 𝘵𝘰𝘶𝘤𝘩...
 
-𝗖𝗲𝗹𝗹: 217-820-8069<br>
 𝗘𝗺𝗮𝗶𝗹: matthewsteele.chi@gmail.com <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewsteeleonline/)
