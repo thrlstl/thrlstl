@@ -16,9 +16,11 @@ Here are some ideas to get you started: !
 
 ## 𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙈𝙖𝙩𝙩𝙝𝙚𝙬!
 
-I'm a Front End Software Developer and design-thinker focused on creating and enhancing E-Commerce experiences through people-first solutions with our Garrett Brands | Garrett Popcorn Shops Team.
+Shaping modern e-commerce experiences at the intersection of engineering, design, and digital strategy.
 
-I'm also a Graphic Designer, Tech Writer, 🏳️‍🌈 Queer/Gay Man in Tech, 🐑 Mariah Carey aficionado, life-long learner, and much more!
+🍿 Current Director of Front-End & E-Commerce Development for Garrett Brands, creating thoughtful, high-performing digital experiences that celebrate our brand and the fans who make it special.
+
+Outside of E-Commerce, I’m also a designer, cyclist, tech writer, lifelong learner, Mariah Carey aficionado, theatre enthusiast, and proud queer voice in tech.
 
 ## 𝘊𝘰𝘳𝘦 𝘚𝘬𝘪𝘭𝘭𝘴
 
